@@ -1,2 +1,2 @@
-# mvvm_with_tdd
+# MVVM with TDD
 Testing MVVM iOS code usign TDD techniques
