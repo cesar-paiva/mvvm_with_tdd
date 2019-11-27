@@ -38,14 +38,3 @@ Just download source code and unzip the downloaded folder and open project in Xc
 ```
   git clone https://github.com/cesar-paiva/mvvm_with_tdd.git
   ```
-
-#### Screenshots
-<table align="center" border="0">
-
-<tr>
-<td> <img src="https://github.com/cesar-paiva/world-cup-champions/blob/master/launch-screen.png?raw=true" height="500"> </td>
-<td> <img src="https://github.com/cesar-paiva/world-cup-champions/blob/master/home-screen.png?raw=true" height="500"> </td>
-<td> <img src="https://github.com/cesar-paiva/world-cup-champions/blob/master/detail-screen.png?raw=true" height="500"> </td>
-</tr>
-
-</table>
